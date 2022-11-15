@@ -1,7 +1,7 @@
 # Proyecto Backend.
 
 <p align="center">
-  <img height="400" width="1200" src="./videojuegos.png" />
+  <img height="400" width="800" src="./videojuegos.png" />
 </p>
 
 ## Desarrollo.
@@ -38,10 +38,8 @@ Se desarrollo un servidor con Node-Express con las siguientes rutas:
   - Listado de todos los videojuegos.
 
   <p align="center">
-    <img height="450" width="700" src="images/img-videogames.jpg" />
-  </p>
+    <img height="350" width="700" src="images/img-videogames.jpg" />
 
-- __GET /videogames?name="..."__:
   - Listado de los videojuegos que incluyan la palabra ingresada como query parameter.
 
   <p align="center">
@@ -57,7 +55,7 @@ Se desarrollo un servidor con Node-Express con las siguientes rutas:
 
 - __POST /videogames__:
   - Recibe los datos recolectados de la ruta de creación de videojuego por body.
-  - Crear un nuevo videojuego en la base de datos, relacionado a sus géneros.
+  - Crear u unuevo videojuego en la base de datos, relacionado a sus géneros.
 
   <p align="center">
     <img height="250" width="800" src="images/post-new-videogame.jpg" />
