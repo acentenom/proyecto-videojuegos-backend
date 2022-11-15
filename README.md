@@ -1,7 +1,7 @@
 # Proyecto Backend.
 
 <p align="center">
-  <img height="400" width="800" src="images/videojuegos.png" />
+  <img height="400" width="750" src="images/videojuegos.jpg" />
 </p>
 
 ## Desarrollo.
