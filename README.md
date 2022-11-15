@@ -38,7 +38,7 @@ Se desarrollo un servidor con Node-Express con las siguientes rutas:
   - Listado de todos los videojuegos.
 
   <p align="center">
-    <img height="450" width="900" src="images/img-videogames.jpg" />
+    <img height="450" width="700" src="images/img-videogames.jpg" />
   </p>
 
 - __GET /videogames?name="..."__:
