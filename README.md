@@ -1,9 +1,5 @@
 # Proyecto Backend.
 
-<p align="center">
-  <img height="400" width="750" src="images/videojuegos.jpg" />
-</p>
-
 ## Desarrollo.
 
 Aplicación donde se pueden ver los distintos videojuegos disponibles junto con información relevante de los mismos utilizando la API externa [rawg](https://rawg.io/apidocs). En la cual pueden conseguir las siguentes funciones.
