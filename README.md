@@ -1,7 +1,7 @@
 # Proyecto Backend.
 
 <p align="center">
-  <img height="400" width="800" src="./videojuegos.png" />
+  <img height="400" width="800" src="images/videojuegos.png" />
 </p>
 
 ## Desarrollo.
@@ -38,12 +38,12 @@ Se desarrollo un servidor con Node-Express con las siguientes rutas:
   - Listado de todos los videojuegos.
 
   <p align="center">
-    <img height="350" width="700" src="images/img-videogames.jpg" />
+    <img height="450" width="800" src="images/img-videogames.jpg" />
 
   - Listado de los videojuegos que incluyan la palabra ingresada como query parameter.
 
   <p align="center">
-    <img height="450" width="900" src="images/search-videogame.jpg" />
+    <img height="450" width="800" src="images/search-videogame.jpg" />
   </p>
 
 - __GET /videogame/{idVideogame}__:
